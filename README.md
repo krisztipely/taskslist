@@ -83,4 +83,4 @@ Enter your choice (1-4): 4
 Exiting the to-do list application.
 ```
 ## License
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/taskslist/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
